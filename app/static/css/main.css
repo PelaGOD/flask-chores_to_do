@@ -1,0 +1,9 @@
+html * {
+    font-family: sans-serif;
+}
+
+img {
+    position: relative;
+    top: -13px;
+    max-width: 30px;
+}
