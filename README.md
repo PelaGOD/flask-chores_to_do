@@ -27,6 +27,6 @@ Este proyecto es una aplicación web creada con **Flask** para gestionar tareas 
 2. Agrega nuevas tareas, actualiza el estado de las existentes o elimínalas a medida que las completes.
 
 ## Tecnologías utilizadas
-Flask: Framework web en Python.
-Firestore: Base de datos NoSQL de Google Firebase.
-Python: Lenguaje de programación.
+* Flask: Framework web en Python.
+* Firestore: Base de datos NoSQL de Google Firebase.
+* Python: Lenguaje de programación.
